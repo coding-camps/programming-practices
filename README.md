@@ -3,7 +3,8 @@
 
 This repo is used to collect problem sets for programming exercise. Each question set is placed in a folder. Each question contains description, analysis, solutions, if possible, the data required for testing.
 
-#### https://coding-camps.github.io/programming-practices/
+### Github Pages / web:
+> https://coding-camps.github.io/programming-practices/
 
 ```
 ├── README.md .................. 总体介绍
