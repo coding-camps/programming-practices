@@ -8,6 +8,7 @@
 ### 分类
 - [case-001](./classical-100/case-001/desc.md): 控制流-循环
 - [case-002](./classical-100/case-002/desc.md): 控制流-条件
+- [case-00](./classical-100/case-003/desc.md): 控制流-条件
 
 
 ### Desc.md
